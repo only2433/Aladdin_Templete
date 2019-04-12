@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "707569107534",
+    "firebase_url": "https://storybook-aladdin.firebaseio.com",
+    "project_id": "storybook-aladdin",
+    "storage_bucket": "storybook-aladdin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707569107534:android:f98b98db8b30950a",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.aladdin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707569107534-a7tqpnrqsjsmasf5benphevbptcds81g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9HHKMdiieF4gkmSqiRxf-vQyCyiGUjw"
+        },
+        {
+          "current_key": "AIzaSyACDNljVfIvvJhjX-ORITrkrNao5irZLzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707569107534-a7tqpnrqsjsmasf5benphevbptcds81g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
