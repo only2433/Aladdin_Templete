@@ -569,23 +569,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-ko\\values-ko.xml",
-                    "from": {
-                        "startLines": "21,22,23,24,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "965,1029,1105,1175,1399,1454,1507,1562",
-                        "endColumns": "63,75,69,77,54,52,54,55",
-                        "endOffsets": "1024,1100,1170,1248,1449,1502,1557,1613"
-                    },
-                    "to": {
-                        "startLines": "101,105,107,108,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "8630,9008,9155,9225,9582,9637,9690,9745",
-                        "endColumns": "63,75,69,77,54,52,54,55",
-                        "endOffsets": "8689,9079,9220,9298,9632,9685,9740,9796"
-                    }
-                },
-                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8d03a63b57720308341e1673c826d33e\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
@@ -651,6 +634,23 @@
                         "startOffsets": "4868,4974,5145,5263,5367,5541,5660,5797,6101,6305,6410,6577,6697,6874,7023,7112,7200",
                         "endColumns": "105,170,117,103,173,118,136,123,203,104,166,119,176,148,88,87,103",
                         "endOffsets": "4969,5140,5258,5362,5536,5655,5792,5916,6300,6405,6572,6692,6869,7018,7107,7195,7299"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "21,22,23,24,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "965,1029,1105,1175,1399,1454,1507,1562",
+                        "endColumns": "63,75,69,77,54,52,54,55",
+                        "endOffsets": "1024,1100,1170,1248,1449,1502,1557,1613"
+                    },
+                    "to": {
+                        "startLines": "101,105,107,108,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8630,9008,9155,9225,9582,9637,9690,9745",
+                        "endColumns": "63,75,69,77,54,52,54,55",
+                        "endOffsets": "8689,9079,9220,9298,9632,9685,9740,9796"
                     }
                 },
                 {
@@ -2137,7 +2137,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "21,22,23,24,28,29,30,31",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -2266,23 +2266,6 @@
             "outputFile": "D:\\android_studio_workspace\\Aladdin_Templete\\aladdin\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "22,23,24,25,29,30,31,32",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1009,1069,1133,1196,1422,1476,1531,1586",
-                        "endColumns": "59,63,62,79,53,54,54,55",
-                        "endOffsets": "1064,1128,1191,1271,1471,1526,1581,1637"
-                    },
-                    "to": {
-                        "startLines": "101,105,107,108,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "8712,9054,9189,9252,9607,9661,9716,9771",
-                        "endColumns": "59,63,62,79,53,54,54,55",
-                        "endOffsets": "8767,9113,9247,9327,9656,9711,9766,9822"
-                    }
-                },
-                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8d03a63b57720308341e1673c826d33e\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2",
@@ -2348,6 +2331,23 @@
                         "startOffsets": "5939",
                         "endColumns": "180",
                         "endOffsets": "6115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "22,23,24,25,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1009,1069,1133,1196,1422,1476,1531,1586",
+                        "endColumns": "59,63,62,79,53,54,54,55",
+                        "endOffsets": "1064,1128,1191,1271,1471,1526,1581,1637"
+                    },
+                    "to": {
+                        "startLines": "101,105,107,108,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8712,9054,9189,9252,9607,9661,9716,9771",
+                        "endColumns": "59,63,62,79,53,54,54,55",
+                        "endOffsets": "8767,9113,9247,9327,9656,9711,9766,9822"
                     }
                 },
                 {
@@ -2627,6 +2627,23 @@
             "outputFile": "D:\\android_studio_workspace\\Aladdin_Templete\\aladdin\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "22,23,24,25,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
+                    },
+                    "to": {
+                        "startLines": "103,107,109,110,116,117,118,119",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "10136,10691,10906,10995,11414,11483,11540,11599",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "10219,10812,10990,11087,11478,11535,11594,11660"
+                    }
+                },
+                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\e79c8257eef7ed8b2cbcf284a36cb4ea\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,22",
@@ -2658,23 +2675,6 @@
                         "startOffsets": "5278,5388,5583,5716,5826,6046,6181,6333,6691,6942,7053,7249,7383,7607,7794,7891,7990",
                         "endColumns": "109,194,132,109,219,134,151,138,250,110,195,133,223,186,96,98,113",
                         "endOffsets": "5383,5578,5711,5821,6041,6176,6328,6467,6937,7048,7244,7378,7602,7789,7886,7985,8099"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "22,23,24,25,29,30,31,32",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
-                    },
-                    "to": {
-                        "startLines": "103,107,109,110,116,117,118,119",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "10136,10691,10906,10995,11414,11483,11540,11599",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "10219,10812,10990,11087,11478,11535,11594,11660"
                     }
                 },
                 {
@@ -4529,25 +4529,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,352",
-                        "endLines": "13,25",
-                        "endColumns": "19,19",
-                        "endOffsets": "347,731"
-                    },
-                    "to": {
-                        "startLines": "2,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "150,447",
-                        "endLines": "13,25",
-                        "endColumns": "19,19",
-                        "endOffsets": "442,826"
-                    }
-                },
-                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.3.4.aar\\15d3946990936e334c42427453cbcf25\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -4586,11 +4567,11 @@
                 {
                     "source": "D:\\android_studio_workspace\\Aladdin_Templete\\aladdin\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "60,74,7,8,2,75,22,30,21,27,26,25,35,24,28,36,23,33,34,31,32,29,4,72,10,12,58,37,44,62,64,17,11,76,42,41,6,9,67,66,38,39,3,55,52,54,53,56,48,49,46,14,15,16,47,50,78,81,79,80,13,69,71,43,19,18",
+                        "startLines": "64,78,11,12,6,79,26,34,25,31,30,29,39,28,32,40,27,37,38,35,36,33,8,76,14,16,62,41,48,66,68,21,15,80,46,45,10,13,71,70,42,43,7,59,56,58,57,60,52,53,50,18,19,20,51,54,82,85,83,84,17,73,75,47,23,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4097,5024,317,366,57,5089,1078,1466,1034,1317,1265,1210,1714,1167,1368,1773,1125,1609,1663,1511,1562,1413,195,4851,471,582,3769,1830,2437,4162,4338,865,533,5152,2168,2049,274,410,4527,4441,1894,1950,103,3526,3058,3389,3256,3615,2775,2865,2601,697,758,795,2699,2955,5318,5515,5388,5448,634,4635,4740,2304,964,914",
+                        "startOffsets": "4192,5119,412,461,152,5184,1173,1561,1129,1412,1360,1305,1809,1262,1463,1868,1220,1704,1758,1606,1657,1508,290,4946,566,677,3864,1925,2532,4257,4433,960,628,5247,2263,2144,369,505,4622,4536,1989,2045,198,3621,3153,3484,3351,3710,2870,2960,2696,792,853,890,2794,3050,5413,5610,5483,5543,729,4730,4835,2399,1059,1009",
                         "endColumns": "43,63,47,42,44,61,45,43,42,49,50,53,57,41,43,55,40,52,49,49,45,51,59,145,60,50,306,62,143,152,82,47,47,143,134,117,41,59,84,84,54,78,90,87,196,135,131,125,88,88,96,59,35,68,74,81,68,56,58,65,61,81,109,131,47,48",
-                        "endOffsets": "4136,5083,360,404,97,5146,1119,1505,1072,1362,1311,1259,1767,1204,1407,1824,1161,1657,1708,1556,1603,1460,250,4992,527,628,4071,1888,2576,4310,4416,908,576,5291,2298,2162,311,465,4607,4521,1944,2024,189,3609,3250,3520,3383,3736,2859,2949,2693,752,789,859,2769,3032,5382,5567,5442,5509,691,4712,4845,2431,1007,958"
+                        "endOffsets": "4231,5178,455,499,192,5241,1214,1600,1167,1457,1406,1354,1862,1299,1502,1919,1256,1752,1803,1651,1698,1555,345,5087,622,723,4166,1983,2671,4405,4511,1003,671,5386,2393,2257,406,560,4702,4616,2039,2119,284,3704,3345,3615,3478,3831,2954,3044,2788,847,884,954,2864,3127,5477,5662,5537,5604,786,4807,4940,2526,1102,1053"
                     },
                     "to": {
                         "startLines": "2244,2284,2285,2286,2287,2289,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302,2303,2304,2305,2306,2346,2349,2356,2357,2358,2359,2360,2361,2362,2363,2364,2365,2368,2369,2370,2371,2372,2373,2374,2375,2381,2382,2383,2384,2385,2386,2388,2389,2390,2391,2392,2393,2394,2395,2396,2397,2398,2399,2400,2401,2403,2405,2406,2407",
@@ -4727,6 +4708,25 @@
                         "startOffsets": "132223",
                         "endColumns": "57",
                         "endOffsets": "132276"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,352",
+                        "endLines": "13,25",
+                        "endColumns": "19,19",
+                        "endOffsets": "347,731"
+                    },
+                    "to": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "150,447",
+                        "endLines": "13,25",
+                        "endColumns": "19,19",
+                        "endOffsets": "442,826"
                     }
                 },
                 {
@@ -5372,6 +5372,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "21,22,23,24,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "936,993,1055,1112,1317,1371,1425,1481",
+                        "endColumns": "56,61,56,60,53,53,55,56",
+                        "endOffsets": "988,1050,1107,1168,1366,1420,1476,1533"
+                    },
+                    "to": {
+                        "startLines": "101,105,107,108,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8260,8579,8706,8763,9089,9143,9197,9253",
+                        "endColumns": "56,61,56,60,53,53,55,56",
+                        "endOffsets": "8312,8636,8758,8819,9138,9192,9248,9305"
+                    }
+                },
+                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8d03a63b57720308341e1673c826d33e\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
@@ -5471,23 +5488,6 @@
                         "startOffsets": "7063",
                         "endColumns": "100",
                         "endOffsets": "7159"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "21,22,23,24,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "936,993,1055,1112,1317,1371,1425,1481",
-                        "endColumns": "56,61,56,60,53,53,55,56",
-                        "endOffsets": "988,1050,1107,1168,1366,1420,1476,1533"
-                    },
-                    "to": {
-                        "startLines": "101,105,107,108,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "8260,8579,8706,8763,9089,9143,9197,9253",
-                        "endColumns": "56,61,56,60,53,53,55,56",
-                        "endOffsets": "8312,8636,8758,8819,9138,9192,9248,9305"
                     }
                 }
             ]
